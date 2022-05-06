@@ -7,6 +7,12 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wYuYw&layout=compact&theme=github_dark)
 
   <hr />
+  <h1>Contact</h1>
+  <a href="mailto:quf8093@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  
+  <hr />
   <h1>Skills</h1>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
