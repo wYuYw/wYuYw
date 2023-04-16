@@ -4,7 +4,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wYuYw&show_icons=true&theme=github_dark)
   <br />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wYuYw&layout=compact&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wYuYw&layout=compact&theme=github_dark&count_private=true)
 
   <hr />
   <h1>Contact</h1>
